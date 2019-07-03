@@ -1,0 +1,13 @@
+.vs/
+bin/
+packages/
+debug/
+tools/
+obj/
+output/
+artifacts/
+Backup/
+Nuget.config
+*.user
+*.lock.json
+.vscode/
